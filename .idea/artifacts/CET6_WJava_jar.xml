@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CET6_WJava:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="CET6_WJava.jar">
+      <element id="module-output" name="CET6_WJava" />
+    </root>
+  </artifact>
+</component>
